@@ -15,7 +15,7 @@ humanize
 aiofiles
 dnspython
 pynewtonmath
-openai
+openai==0.28
 
 #Online Stream & Download
 
